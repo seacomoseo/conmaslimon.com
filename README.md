@@ -6,25 +6,6 @@
 ## STEPS
 
 
-### Local
-
-- Design
-  - You can edit any file with the same structure of theme sansoul
-  - GENERAL
-    - `config.yml`
-    - `data/*.{yml,md}`
-  - CONTENT
-    - `content/*`
-      - `blog/divisores.md` ⏩ remove
-      - `admin` ⏩ `draft: true` and/or change params and content
-  - IMG
-    - `assets/media/*`
-  - If Multilanguaje and Multihosting, add `cp ./public/[es|en]/404.html ./public/` in `netlify.toml ⏩ build.command`
-  - Try in Safari and Firefox
-  - Check in [W3 Validator](https://validator.w3.org/)
-  - Check in [PageSpeed Insights](https://pagespeed.web.dev/)
-
-
 ### After client validate web
 
 
@@ -47,11 +28,6 @@
     To: `google-site-verification=[google_site_verification]`
 - Link with Analytics
 - Add sitemap.xml
-
-
-#### [Google My Business](https://business.google.com/)
-
-- `Add company ⏩ ...` ⏩ whait 13 days to receive postal and insert code to verify
 
 
 ##### Delivery
