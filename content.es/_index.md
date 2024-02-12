@@ -9,7 +9,7 @@ noindex: false
 translationKey: home
 sections:
 - file: header
-- file: nosotros
+- file: conocenos
 - file: servicios
 - file: portfolio
 - file: resenas
