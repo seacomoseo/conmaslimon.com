@@ -1,5 +1,5 @@
 title: Reseñas
-subtitle: ¿Qué dicen de nosotros?
+subtitle: Dicen por ahí...
 icon: comment
 rows:
 - type: reviews
@@ -41,8 +41,4 @@ rows:
 - type: columns
   items:
   - description: |
-      ¡Hay más aquí! ¡Añade la tuya!
-      {.subtitle}
-
-      [btn icon-star Google](https://g.page/webmurcia/review "noindex")
-      [btn icon-star Facebook](https://www.facebook.com/QuantumFracture/reviews/ "noindex")
+      [btn icon-star Más Reseñas](https://g.page/webmurcia/review "noindex")

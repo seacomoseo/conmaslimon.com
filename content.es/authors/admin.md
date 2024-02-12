@@ -3,7 +3,7 @@ title: Admin
 title_seo: ''
 slug: admin
 description: ''
-image: logo.png
+image: icon-alt.svg
 toc: false
 draft: false
 noindex: true

@@ -1,18 +1,18 @@
-title: SanSoul Hugo Theme EXAMPLE
-description: SanSoul is the Hugo theme website services soul by lorensansol, you can copy and use like you want
+title: Con más Limón - Marketing y Comunicación
+description: Agencia de marketing y comunicación especializada en la transformación digital de empresas, enfocada en digitalizar, conectar y potenciar marcas en el mundo virtual.
 logo: logo.png
-legal_name: Nombre Legal de Ejemplo
-legal_dni: 12345678-A
+legal_name: María Sánchez Serrano
+legal_dni: 48658939R
 legal_email: ''
 legal_location: ''
 country: España
 location_type:
-- LocalBusiness
 - Organization
+- LocalBusiness
 alternate_name:
-- SanSoul
-price_range: €€
-google_analytics: CAMBIAR
+- Con más Limón
+price_range: €
+google_analytics: G-6K9LR2E9L0
 google_site_verification: ''
 google_file_verification: google7467d923cbb3eb4c.html
 disqus: ''
@@ -35,12 +35,6 @@ custom_code:
     code: ''
     lang: javascript
 social:
-- link: https://www.facebook.com/QuantumFracture
-- link: https://www.instagram.com/quantumfracture/
-- link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
-- link: https://twitter.com/QuantumFracture
-- link: https://www.linkedin.com/company/quantum-fracture
-- link: https://gitlab.com/lorensansol
-- link: https://github.com/lorensansol
-- link: https://mastersoflol.com/collections/quantumfracture?YTC
+- link: https://www.instagram.com/conmaslimon/
+- link: https://www.tiktok.com/@conmaslimon
 

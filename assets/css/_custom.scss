@@ -1,28 +1,59 @@
-// Header Animations
+// Animations
 
-@keyframes logo-drop {
-  0% {
-    transform: scale(3);
-    opacity: 0;
-  }
-  100% {
-    transform: scale(1);
-    opacity: 1;
-  }
-}
 #body-inicio #header {
-  .image {
-    path {
-      fill: var(--text);
-    }
-    transform-origin: center;
-    animation: logo-drop 1s 0s both;
-  }
+  // .image {
+  //   // path {
+  //   //   fill: var(--text);
+  //   // }
+  //   transform-origin: center;
+  //   animation: logo-drop 1s 0s both;
+  // }
   @mixin show-from($delay) {
     animation: show-from .5s (.5 + .25s * $delay) both;
   }
-  .section__title {       @include show-from(1); }
-  .subtitle {             @include show-from(2); }
-  .description p {        @include show-from(3); }
-  .description .buttons { @include show-from(4); }
+  .logo-con-mas {         @include show-from(1); }
+  .logo-limon {           @include show-from(2); }
+  .logo-myc {             @include show-from(3); }
+  blockquote {            @include show-from(4); }
+  .description .buttons { @include show-from(5); }
+}
+@keyframes rodar {
+  35% {
+    transform: translate(2.5%) rotate(2.5deg);
+  }
+  0%,5%,95%,100% {
+    transform: none;
+  }
+  65% {
+    transform: translate(-2.5%) rotate(-2.5deg);
+  }
+}
+@keyframes viento {
+  0% {
+    transform: none;
+  }
+  100% {
+    transform: rotate(5deg);
+  }
+}
+.logo-o,
+.logo-hoja {
+  transform-box: fill-box;
+  transform-origin: 45% 70%;
+  animation: rodar 5s 2s both infinite ease-in-out;
+}
+.logo-hoja {
+  transform-origin: 0% 100%;
+  animation-duration: .5s;
+  animation-name: viento;
+  animation-direction: alternate;
+}
+#nosotros {
+  .image__inner {
+    overflow: visible;
+  }
+  .logo-o {
+    transform-box: view-box;
+    transform-origin: 50% 70%;
+  }
 }

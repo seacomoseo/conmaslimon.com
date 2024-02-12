@@ -1,9 +1,9 @@
 ---
 title: Inicio
-title_seo: Tema SanSoul de Hugo
+title_seo: Con más Limón - Marketing y Comunicación
 slug: inicio
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol.
-image: fondo.jpg
+description: llll➤ Agencia de marketing y comunicación ✅ especializada en la transformación digital de empresas, enfocada en digitalizar, conectar y potenciar marcas en el mundo virtual.
+image: logo.png
 draft: false
 noindex: false
 translationKey: home
@@ -11,12 +11,7 @@ sections:
 - file: header
 - file: nosotros
 - file: servicios
-  modals:
-  - ejemplo
-- file: proceso
-- file: fotos
-- file: noticias
-- file: faq
+- file: portfolio
 - file: resenas
 - file: contacto
 ---

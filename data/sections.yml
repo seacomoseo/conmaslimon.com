@@ -18,7 +18,7 @@ general:
   padding_hide: false
   padding_top: null
   padding_bottom: null
-  color: light
+  color: dark
   gradient: ''
   gradient_type: ''
   bg: ''

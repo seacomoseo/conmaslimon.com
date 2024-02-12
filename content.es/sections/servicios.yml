@@ -1,27 +1,30 @@
 title: Servicios
-subtitle: ¿Qué procesos seguimos?
-icon: rocket-launch
+subtitle: Marketing y Comunicación
+icon: citrus-slice
 rows:
 - type: columns
   design:
-    num_xs: true
-    color: white
-    inset: true
-    uppercase: true
+    num: 3
     underline: true
-    image: fondo.jpg
-    icon: frog
-    link: '#ejemplo'
   items:
-  - title: OLA K ASE
-    subtitle: Agámoslo!
+  - icon: microchip
+    title: Digitalización <br> Empresarial
     description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-  - title: OLA K ASE
-    subtitle: Agámoslo!
+      Transformamos tu negocio para el mundo digital, optimizando procesos y adoptando tecnologías innovadoras que impulsen tu crecimiento y competitividad.
+  - icon: icons
+    title: Estrategia de <br> Contenido
     description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-  - title: OLA K ASE
-    subtitle: Agámoslo!
+      Creamos contenido cautivador y relevante para tu marca, diseñado específicamente para cada plataforma y audiencia, con el objetivo de fortalecer tu presencia en línea y aumentar la interacción con tus seguidores.
+  - icon: messages
+    title: Gestión de <br> Redes Sociales
     description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+      Administramos tus perfiles en redes sociales de manera profesional y estratégica, generando contenido de alto impacto, interactuando con tu audiencia y construyendo una comunidad sólida en torno a tu marca.
+  - icon: megaphone
+    title: Publicidad <br> Online
+    description: |
+      Diseñamos y ejecutamos campañas publicitarias efectivas en línea, utilizando las últimas herramientas y estrategias para llegar a tu público objetivo y maximizar el retorno de la inversión.
+  - icon: compass
+    title: Consultoría y <br> Asesoramiento
+    description: |
+      Ofrecemos orientación experta y asesoramiento personalizado en marketing y comunicación, ayudándote a definir tus objetivos, desarrollar estrategias efectivas y superar los desafíos específicos de tu negocio.
+

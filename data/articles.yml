@@ -1,11 +1,11 @@
 content:
-  logo: logo.svg
+  logo: logo-alt.svg
   title: ''
   subtitle: ''
   uppercase: false
   underline: false
   align: left
-  color: light
+  color: white
   toc_color: white
   border: main
   reading_time: true
