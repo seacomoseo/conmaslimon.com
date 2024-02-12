@@ -8,6 +8,7 @@ rows:
     color: white
     slider: true
     interval: 8
+    icon: ditto
   items:
   - title: Lorem I.
     subtitle: Beatae Vitae
