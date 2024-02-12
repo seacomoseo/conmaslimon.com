@@ -67,5 +67,5 @@ lightbox_overlay:
   color: black
 performance:
   showup: true
-  parallax: true
+  parallax: false
   srcsetx2: true
