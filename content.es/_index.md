@@ -11,7 +11,7 @@ sections:
 - file: header
 - file: conocenos
 - file: servicios
-- file: portfolio
-- file: resenas
+# - file: portfolio
+# - file: resenas
 - file: contacto
 ---
