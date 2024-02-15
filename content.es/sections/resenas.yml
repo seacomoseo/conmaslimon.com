@@ -10,36 +10,31 @@ rows:
     interval: 8
     icon: ditto
   items:
-  - title: Lorem I.
-    subtitle: Beatae Vitae
-    image: https://images.unsplash.com/photo-1628157588553-5eeea00af15c?fit=crop&w=144&q=60
+  - title: Antonio A.
     description: |
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
+      Queremos expresar nuestro más sincero agradecimiento a María por elevar la visibilidad de nuestra empresa a través de su excepcional trabajo en marketing y comunicación.
 
-      Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab.
+      Su creatividad, dedicación y experiencia están siendo fundamentales para nuestro éxito.
 
-      Illo inventore veritatis et quasi architecto beatae vitae dicta sunt.
-
-      Explicabo.
-  - title: Sequi N.
-    subtitle: Ratione Voluptatem
-    image: https://images.unsplash.com/photo-1519699047748-de8e457a634e?fit=crop&w=144&q=60
+      ¡Gracias, María, por impulsar nuestro crecimiento con tu talento!
+  - title: María M.
     description: |
-      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut.
+      María es encantadora!
 
-      Fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem.
+      Gracias a que me mejoró el plan de marketing de mi empresa, todo va mucho mejor!
 
-      Sequi nesciunt.
-  - title: Quaerat V.
-    subtitle: Magnam Aliquam
-    image: https://images.unsplash.com/photo-1620293023555-272e1a661b26?fit=crop&w=144&q=60
+      Sin ella no sería lo mismo!
+  - title: Carlos L.
     description: |
-      Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,.
+      Muy profesional y creativa con la gestión de la comunicación.
 
-      Consectetur, adipisci velit, sed quia non numquam eius modi tempora.
+      Estoy muy contento con sus servicios.
+  - title: Paloma G.
+    description: |
+      Creativa, profesional y diferente a las demás.
 
-      Incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+      Mayor cercanía con el cliente.
 - type: columns
   items:
   - description: |
-      [btn icon-star Más Reseñas](https://g.page/webmurcia/review "noindex")
+      [btn icon-star Más Reseñas](https://g.page/r/CSH3gwVCxBzkEB0/review "noindex")
