@@ -1,0 +1,24 @@
+name: Clientes
+color: main
+boxes:
+- title: Clientes
+  sub: Confían en nosotros
+  box:
+    cols: 6
+    cols_vs: 2
+    align_y: center
+    ratio: 16/9
+    contain: y
+    slider: y
+  gallery:
+    type: boxes
+  imgs:
+  - /u/clientes/sycocora.png
+  - /u/clientes/carlos-j-hernandez.png
+  - /u/clientes/chez-sois.png
+  - /u/clientes/danse.png
+  - /u/clientes/horadent.svg
+  - /u/clientes/maria-jimenez.png
+  - /u/clientes/miralva.svg
+  - /u/clientes/mj-expert-nails.png
+  - /u/clientes/takamaka.svg

@@ -1,41 +1,5 @@
-title: Con más Limón - Marketing y Comunicación
-description: Agencia de marketing y comunicación especializada en la transformación digital de empresas, enfocada en digitalizar, conectar y potenciar marcas en el mundo virtual.
-logo: logo.png
-legal_name: María Sánchez Serrano
-legal_dni: 48658939R
-legal_email: ''
-legal_location: ''
-country: España
-location_type:
-- Organization
-- LocalBusiness
-alternate_name:
-- Con más Limón
-price_range: €
-google_analytics: G-6K9LR2E9L0
-google_site_verification: ''
-google_file_verification: google7467d923cbb3eb4c.html
-disqus: ''
-cookies_legal: false
-analytics_pagespeed: true
-process_all_images: false
-cms: true
-cms_editorial_workflow: false
-development: false
-custom_code:
-  html_head:
-    code: ''
-    lang: html
-  html_body:
-    code: ''
-    lang: html
-  css:
-    code: ''
-  js:
-    code: ''
-    lang: javascript
-social:
-- link: https://www.instagram.com/conmaslimon/
-- link: https://www.tiktok.com/@conmaslimon
-- link: https://g.page/r/CSH3gwVCxBzkEB0
-
+ga4: G-6K9LR2E9L0
+g_file_verify: google7467d923cbb3eb4c.html
+mail: info@conmaslimon.com
+cms_logo: /u/base/icon.svg
+show: y

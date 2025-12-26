@@ -1,0 +1,16 @@
+name: Frases
+bi: /u/fondo.webp
+size: md
+box:
+  cols: 2
+  align_y: center
+boxes:
+- hanchor: Frase
+  md: |
+    "Estrategias frescas, comunicación potente y resultados que hacen que tu marca destaque sin esfuerzo"
+    {.slogan}
+  align: center
+- md: |
+    "Nuestra misión es impulsar el crecimiento y la visibilidad de tu negocio en el universo digital"
+    {.slogan}
+  align: center

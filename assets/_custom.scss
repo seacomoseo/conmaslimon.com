@@ -1,0 +1,37 @@
+// Animations
+
+#body-home #header {
+  // .img {
+  //   // path {
+  //   //   fill: var(--text);
+  //   // }
+  //   transform-origin: center;
+  //   animation: logo-drop 1s 0s both;
+  // }
+  @mixin show-from($delay) {
+    animation: show-from .5s (.25s * $delay) both;
+  }
+  .box--2 .md  { @include show-from(1); }
+  .box--2 .img { @include show-from(2); }
+  .img + .img  { @include show-from(3); }
+  .box--3 .img { @include show-from(4); }
+  .box--1 .img { @include show-from(5); }
+  @media (max-width: 1279px) {
+    .box--1,
+    .box--3 {
+      display: none;
+    }
+  }
+}
+.slogan {
+  font-size: 1.8em;
+}
+// #conocenos {
+//   .img__in {
+//     overflow: visible;
+//   }
+//   .logo-o {
+//     transform-box: view-box;
+//     transform-origin: 50% 70%;
+//   }
+// }

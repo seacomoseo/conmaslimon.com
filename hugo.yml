@@ -1,35 +1,11 @@
 baseURL: https://conmaslimon.com
-Paginate: 24
-buildFuture: false
+buildFuture: n
 theme: [sansoul]
 params:
-  git_url: https://github.com/seacomoseo/conmaslimon.com
-  netlify_name: conmaslimon
+  domain: conmaslimon.com
+  name: conmaslimon
   netlify_id: a542c16e-120b-4f86-be36-32c539837b13
-  hook: NjVjOWY4MGU2Njc5ZDRjYjZkNTA2YTY4Cg==
-  drive_link: https://drive.google.com/file/d/1AZQ-rNgsxyv2tF0HU2Tf8qDwQJPGBydb
+  netlify_hook: NjVjOWY4MGU2Njc5ZDRjYjZkNTA2YTY4Cg==
+  cloudflare_id: 
+  drive_url: https://drive.google.com/file/d/1AZQ-rNgsxyv2tF0HU2Tf8qDwQJPGBydb
   drive_mails: conmaslimon@gmail.com
-defaultContentLanguage: es
-disableLanguages: [en]
-languages:
-  es:
-    paginatePath: pagina
-    permalinks:
-      page:
-        pages: :slug
-        blog: :slug
-        events: evento/:year/:month/:day/:slug
-        products: producto/:slug
-        categories: categoria/:slug
-        tags: etiqueta/:slug
-        authors: autor/:slug
-        custom: :slug
-      section:
-        pages: paginas
-        blog: blog
-        events: eventos
-        products: productos
-        categories: categorias
-        tags: etiquetas
-        authors: autores
-        custom: personalizadas

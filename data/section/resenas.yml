@@ -1,0 +1,38 @@
+name: Reseñas
+boxes:
+- title: Reseñas
+  sub: Dicen por ahí...
+  # icon: reviews
+- review:
+    cols: 3
+    color: white
+    slider: y
+    time: 8
+  reviews:
+  - title: Antonio A.
+    md: |
+      Queremos expresar nuestro más sincero agradecimiento a María por elevar la visibilidad de nuestra empresa a través de su excepcional trabajo en marketing y comunicación.
+
+      Su creatividad, dedicación y experiencia están siendo fundamentales para nuestro éxito.
+
+      ¡Gracias, María, por impulsar nuestro crecimiento con tu talento!
+  - title: María M.
+    md: |
+      María es encantadora!
+
+      Gracias a que me mejoró el plan de marketing de mi empresa, todo va mucho mejor!
+
+      Sin ella no sería lo mismo!
+  - title: Carlos L.
+    md: |
+      Muy profesional y creativa con la gestión de la comunicación.
+
+      Estoy muy contento con sus servicios.
+  - title: Paloma G.
+    md: |
+      Creativa, profesional y diferente a las demás.
+
+      Mayor cercanía con el cliente.
+- boxes:
+  - md: |
+      [[::star:: Más Reseñas]](https://g.page/r/CSH3gwVCxBzkEB0/review "[nofollow]")

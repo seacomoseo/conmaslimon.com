@@ -1,0 +1,21 @@
+name: Conocenos
+boxes:
+- title: Conócenos
+  sub: Creamos e Innovamos para ti
+  icon: emoji_people
+  box:
+    cols: 2
+    align: left
+    align_y: center
+  boxes:
+  - md: |
+      ¡Bienvenido a Con más Limón! Aquí la creatividad y la innovación se unen para impulsar tu marca hacia el éxito digital (por supuesto con un toque especial de limón).
+
+      Somos una agencia de marketing y comunicación especializada en la transformación digital de empresas, enfocada en digitalizar, conectar y potenciar marcas en el mundo virtual.
+
+      Nos apasiona el desafío de reinventar la forma en que las empresas interactúan con su audiencia en línea. Desde la creación de contenido cautivador para redes sociales hasta la gestión estratégica de campañas publicitarias, nuestra misión es impulsar el crecimiento y la visibilidad de tu negocio en el universo digital.
+
+      Nuestro enfoque nos permite destacar en un mercado saturado y en constante evolución. Nos esforzamos por pensar fuera de lo convencional, desafiando los límites establecidos para ofrecerte soluciones innovadoras y efectivas que realmente marquen la diferencia.
+
+      No solo somos expertos en marketing y comunicación, sino que también somos tus aliados estratégicos en el camino hacia el éxito digital. ¡Déjanos llevar tu marca al siguiente nivel!
+  - img: /u/base/icon-alt.svg

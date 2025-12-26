@@ -1,0 +1,19 @@
+name: Header
+color: main
+size: lg
+pb: -6
+box:
+  cols: 3
+  align_y: bottom
+boxes:
+- img: /u/maria-lanza.webp
+- boxes:
+  - hanchor: Con más Limón - Marketing y Comunicación
+    md: |
+      Hagamos que conozcan lo que haces
+      {.slogan}
+
+    # [[::add:: Más]](#more)
+  - img: /u/base/logo.svg
+  - img: /u/maria-gafas.webp
+- img: /u/maria-llamada.webp

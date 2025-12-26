@@ -1,0 +1,17 @@
+menu:
+  img: /u/base/logo.svg
+footer:
+  # color: main
+  div: curve-side
+  space: 2
+  dots:
+  - url: https://www.instagram.com/conmaslimon/
+  - url: https://www.tiktok.com/@conmaslimon
+  - url: https://g.page/r/CSH3gwVCxBzkEB0
+  md: |
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
+    - ::brand:seacomoseo:: {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}

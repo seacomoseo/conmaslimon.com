@@ -1,0 +1,86 @@
+icons:
+  fill: y
+  weight: 700
+  grade: 0
+  optical: 24
+  style: outlined
+  defs:
+    play: svg:youtube-iframe
+fonts:
+  base:
+    family: Montserrat Alternates
+    weight: 300
+    bold: 0
+    italic: n
+    line_height: 1.25
+  cursive:
+    family: Ablation
+    weight: 400
+    bold: 0
+    italic: n
+    line_height: 1.25
+    size: 1
+  title:
+    family: Yeseva One
+    weight: 400
+    bold: 0
+    italic: n
+    line_height: 1.25
+    size: 1
+  blockquote_cursive: y
+colors:
+  main:
+    color: '#f6f284'
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: n
+      in: y
+      text: y
+  alt:
+    color: '#ffffff'
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: y
+      in: y
+      text: y
+  cta:
+    color: '#ffffff'
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: n
+      in: y
+      text: y
+  base:
+    white: '#ffffff'
+    light: '#eeeeee'
+    gray: '#767676'
+    dark: '#55582b'
+    black: '#000000'
+rounded:
+  radius: 1.33
+  chamfer: n
+btns:
+  pill: n
+  disc: n
+  deep: n
+  outline: n
+  font:
+    type: title
+    bold: n
+    caps: y
+  swap:
+    type: base
+    bold: n
+    caps: n
+inputs:
+  fill: n
+  labels: in
+shadow:
+  left: 0.15
+  top: 0.15
+  blur: 0
+  color: black
+  alpha: 0.85

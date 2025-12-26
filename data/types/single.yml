@@ -1,0 +1,22 @@
+title: Únicas
+weight: 0
+base: single
+tpl:
+  menu:
+    logo: n
+    sticky: auto
+    size: lg
+  callnow: auto
+  section:
+  - size: lg
+    color: dark
+    alpha: 0.7
+    scroll: fix
+    div: curve-side
+    div_x: y
+    div_y: y
+    box:
+      line: y
+      caps: y
+  - div_x: n
+    div_y: n

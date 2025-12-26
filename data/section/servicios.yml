@@ -1,0 +1,29 @@
+name: Servicios
+boxes:
+- title: Servicios
+  sub: Marketing y Comunicación
+  # icon: svg:base/icon
+  align: left
+  box:
+    cols: 2
+    # icon_size: 3
+  boxes:
+  - # icon: captive_portal
+    title: Diseño y creación de páginas web
+    md: Diseñamos sitios atractivos, intuitivos y optimizados para que tu marca tenga una presencia online impactante y efectiva.
+  - # icon: emoji_symbols
+    title: Creación de contenido audiovisual
+    md: Creamos contenido cautivador y relevante para tu marca, diseñado específicamente para cada plataforma y audiencia, con el objetivo de fortalecer tu presencia online y aumentar la interacción con tus seguidores
+  - # icon: forum
+    title: Gestión de Redes Sociales
+    md: Administramos tus perfiles en redes sociales en base a una estrategia, generando contenido de alto impacto, interactuando con tu audiencia y construyendo una comunidad sólida en torno a tu marca.
+  - # icon: explore
+    title: Consultoría y asesoramiento
+    md: Ofrecemos orientación experta y asesoramiento personalizado en marketing y comunicación, ayudándote a definir tus objetivos, desarrollar estrategias efectivas y superar los desafíos específicos de tu negocio.
+  - # icon: add
+    title: Y también...
+    md: Posicionamiento, email marketing, UGC, Branding y Diseño, Copywriting, Fotografía de producto...
+  - label: Más info
+    url: '#contacto'
+  # - md: |
+  #     [[Más inf::svg:base/icon-alt::]](#contacto)
