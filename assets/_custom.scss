@@ -1,5 +1,8 @@
 // Animations
 
+@mixin show-from($delay) {
+  animation: show-from .5s (.125s * $delay) both;
+}
 #body-home #header {
   // .img {
   //   // path {
@@ -8,19 +11,29 @@
   //   transform-origin: center;
   //   animation: logo-drop 1s 0s both;
   // }
-  @mixin show-from($delay) {
-    animation: show-from .5s (.25s * $delay) both;
-  }
   .box--2 .md  { @include show-from(1); }
   .box--2 .img { @include show-from(2); }
   .img + .img  { @include show-from(3); }
   .box--3 .img { @include show-from(4); }
   .box--1 .img { @include show-from(5); }
-  @media (max-width: 1279px) {
-    .box--1,
+}
+@media (max-width: 1279px) {
+  #body-home #header {
+    .box--2 .img + .img,
     .box--3 {
       display: none;
     }
+    .box--1 .img {
+      --mask-image: linear-gradient(#000 85%, transparent);
+      -webkit-mask-image: var(--mask-image);
+      mask-image: var(--mask-image);
+      @include show-from(0);
+    }
+    .box--2 {
+      align-self: center;
+    }
+    --pt: 0em !important;
+    --pb: 5em !important;
   }
 }
 .slogan {
