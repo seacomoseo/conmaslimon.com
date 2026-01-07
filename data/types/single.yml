@@ -6,6 +6,7 @@ tpl:
     logo: n
     sticky: auto
     size: lg
+    auto: same-modals
   callnow: auto
   section:
   - size: lg

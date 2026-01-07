@@ -3,12 +3,10 @@ tpl:
   bg:
     color: white
   menu:
+    logo: y
     logo_align: center
     clear: y
-    size: md
-    sticky: auto
     color: dark
-    auto: same-modals
     hide_icons: y
   callnow: auto
   section:
