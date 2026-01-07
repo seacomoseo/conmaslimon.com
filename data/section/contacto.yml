@@ -1,7 +1,7 @@
 name: Contacto
 menu_btn: cta
 size: sm
-color: white
+color: main
 boxes:
 - title: Contacto
   sub: Ahora te toca a ti
